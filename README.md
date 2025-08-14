@@ -10,17 +10,3 @@ I firmly believe that technology is a tool to transform creative ideas into real
 Beyond the Code:
 When I’m not building websites, I’m creating digital tips, exploring design trends, and connecting with like-minded creators on social media. Drop by my profiles or say hi—I’d love to connect!
 
- <div className='text-2xl space-x-2 text-gray-600'>
-                {/* Tiktok */}
-                <a href="https://www.tiktok.com/@yahye.h0" target='_blank'>
-                    <i class="fa-brands fa-tiktok"></i>
-                </a>
-                {/* Instagram */}
-                <a href="https://www.instagram.com/yerman2081/" target='_blank'>
-                    <i class="fa-brands fa-instagram"></i>
-                </a>
-                {/* Linkedin */}
-                <a href="https://www.linkedin.com/in/eng-yhassan/" target='_blank'>
-                    <i class="fa-brands fa-linkedin"></i>
-                </a>
-  </div>
