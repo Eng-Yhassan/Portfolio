@@ -1,16 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 body{
     background-color: #020617;
 }
-
 #Shape1 {
     opacity: 0;
     animation: Shape1 13s ease infinite;
 }
-
 @keyframes Shape1 {
     0% {
         opacity: 0; 

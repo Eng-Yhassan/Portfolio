@@ -1,6 +1,3 @@
-
-import React from 'react'
-
 export default function Info() {
     return (
         <div className='text-white lg:w-[30%] md:w-[60%] sm:w-[70%] w-[85%] mx-auto sm:mx-0 mb-20 space-y-4'>

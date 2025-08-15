@@ -1,6 +1,4 @@
- 
 import image from "../../public/yaa.jpg"
- 
  export default function Image() {
    return (
      <div className="pt-4">
