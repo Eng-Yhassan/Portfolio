@@ -1,4 +1,4 @@
-# My portfolio website 
+# My portfolio website kii kowaad 
 
 Software Developer | Mogadishu, Somalia
 Hello! I’m Yahye Hassan, a passionate Full Stack Web Developer and Graphic Designer. I bring a unique blend of skills that allows me to create modern, functional, and visually appealing websites, as well as engaging designs that stand out.
