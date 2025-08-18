@@ -1,3 +1,5 @@
+import Button from "./Button";
+
 export default function Info() {
     return (
         <div className='text-white lg:w-[30%] md:w-[60%] sm:w-[70%] w-[85%] mx-auto sm:mx-0 mb-20 space-y-4'>
@@ -23,6 +25,7 @@ export default function Info() {
                 exploring design trends, and connecting with like-minded
                 creators on social media. Drop by my profiles or say hi—I’d
                 love to connect!</p>
+             <Button/>   
             <div className='text-2xl space-x-2 text-gray-600'>
                 {/* Tiktok */}
                 <a href="https://www.tiktok.com/@yahye.h0" target='_blank'>
